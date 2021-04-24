@@ -1,0 +1,9 @@
+{
+	"name": "learnaztestadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4e7ef2e9-1bcf-4d03-9d46-b84088ae2dd1",
+		"tenantId": "ca9a8b8c-3ea3-4799-a43e-5510398e7a3b"
+	}
+}
